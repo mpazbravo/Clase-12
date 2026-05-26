@@ -5,4 +5,4 @@ cambiar extension de archivo de jpg a webp (si se hace eso, no olvidar cambiar e
 
 
 https://tinypng.com/
-para comprimir imagenes sirve webp 
+para comprimir imagenes (sirve webp)
